@@ -46,6 +46,6 @@ Each folder contains its own notebook(s) or script(s); see the table above for w
 
 ## About
 
-Built by **Sherry (Xinyi) Zhang** — Digital & Marketing Analyst with 3+ years turning digital, marketing, and revenue data into actionable insight for cross-functional and executive stakeholders. Experienced building SQL-driven BI dashboards, KPI reporting, forecasting models, and executive-level data storytelling.
+Built by **Sherry Zhang** — Digital & Marketing Analyst with 3+ years turning digital, marketing, and revenue data into actionable insight for cross-functional and executive stakeholders. Experienced building SQL-driven BI dashboards, KPI reporting, forecasting models, and executive-level data storytelling.
 
 📫 [LinkedIn](https://linkedin.com/in/xinyiszhang) · xyzsh7@gmail.com
